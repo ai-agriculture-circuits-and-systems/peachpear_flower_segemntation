@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5481141712,
+      "width": 512,
+      "height": 512,
+      "file_name": "2_14.bmp",
+      "size": 12330294,
+      "format": "BMP",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9279153712,
+      "image_id": 5481141712,
+      "category_id": 3122060712,
+      "segmentation": [],
+      "area": 195786,
+      "bbox": [
+        1094,
+        462,
+        447,
+        438
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3122060712,
+      "name": "Pear",
+      "supercategory": "Flower Image"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8595988711,
+      "width": 512,
+      "height": 512,
+      "file_name": "16.bmp",
+      "size": 12330294,
+      "format": "BMP",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1845206711,
+      "image_id": 8595988711,
+      "category_id": 5555332711,
+      "segmentation": [],
+      "area": 32218,
+      "bbox": [
+        1194,
+        1278,
+        178,
+        181
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5555332711,
+      "name": "PeachSelected",
+      "supercategory": "Flower Image"
+    }
+  ]
+}
