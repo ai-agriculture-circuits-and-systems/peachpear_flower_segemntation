@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5161578710,
+      "width": 512,
+      "height": 512,
+      "file_name": "14.bmp",
+      "size": 12330294,
+      "format": "BMP",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2692174710,
+      "image_id": 5161578710,
+      "category_id": 9900278710,
+      "segmentation": [],
+      "area": 29040,
+      "bbox": [
+        822,
+        912,
+        132,
+        220
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9900278710,
+      "name": "AppleB",
+      "supercategory": "Flower Image"
+    }
+  ]
+}

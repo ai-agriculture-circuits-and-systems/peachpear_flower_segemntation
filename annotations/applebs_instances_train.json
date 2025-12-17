@@ -1,0 +1,362 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "Peach-Pear Flower Segmentation applebs train split",
+    "url": "https://agdatacommons.nal.usda.gov/download/articles/24852636/versions/1/"
+  },
+  "images": [
+    {
+      "id": 2506998285,
+      "file_name": "applebs/images/38.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 7732488774,
+      "file_name": "applebs/images/48.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 3596183298,
+      "file_name": "applebs/images/52.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 3522580886,
+      "file_name": "applebs/images/42.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 2571326478,
+      "file_name": "applebs/images/14.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 8241370259,
+      "file_name": "applebs/images/41.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 3061888224,
+      "file_name": "applebs/images/25.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 6922895740,
+      "file_name": "applebs/images/26.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 1920315868,
+      "file_name": "applebs/images/32.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 3451041370,
+      "file_name": "applebs/images/44.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 2560407397,
+      "file_name": "applebs/images/1.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 6346242377,
+      "file_name": "applebs/images/28.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 3759268254,
+      "file_name": "applebs/images/23.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 5559132403,
+      "file_name": "applebs/images/35.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 7313775004,
+      "file_name": "applebs/images/22.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 9704364713,
+      "file_name": "applebs/images/47.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 6659007577,
+      "file_name": "applebs/images/19.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 7864838063,
+      "file_name": "applebs/images/17.bmp",
+      "width": 2704,
+      "height": 1520
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 2506998285,
+      "category_id": 1,
+      "bbox": [
+        2378.0,
+        730.0,
+        313.0,
+        176.0
+      ],
+      "area": 55088.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7732488774,
+      "category_id": 1,
+      "bbox": [
+        1060.0,
+        1375.0,
+        198.0,
+        145.0
+      ],
+      "area": 28710.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3596183298,
+      "category_id": 1,
+      "bbox": [
+        2264.0,
+        796.0,
+        178.0,
+        230.0
+      ],
+      "area": 40940.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3522580886,
+      "category_id": 1,
+      "bbox": [
+        2121.0,
+        107.0,
+        339.0,
+        177.0
+      ],
+      "area": 60003.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2571326478,
+      "category_id": 1,
+      "bbox": [
+        822.0,
+        912.0,
+        132.0,
+        220.0
+      ],
+      "area": 29040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8241370259,
+      "category_id": 1,
+      "bbox": [
+        625.0,
+        130.0,
+        260.0,
+        188.0
+      ],
+      "area": 48880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3061888224,
+      "category_id": 1,
+      "bbox": [
+        138.0,
+        428.0,
+        366.0,
+        242.0
+      ],
+      "area": 88572.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6922895740,
+      "category_id": 1,
+      "bbox": [
+        1523.0,
+        365.0,
+        300.0,
+        172.0
+      ],
+      "area": 51600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1920315868,
+      "category_id": 1,
+      "bbox": [
+        2419.0,
+        148.0,
+        150.0,
+        163.0
+      ],
+      "area": 24450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 3451041370,
+      "category_id": 1,
+      "bbox": [
+        514.0,
+        341.0,
+        128.0,
+        192.0
+      ],
+      "area": 24576.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 2560407397,
+      "category_id": 1,
+      "bbox": [
+        445.0,
+        0.0,
+        68.0,
+        116.0
+      ],
+      "area": 7888.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 6346242377,
+      "category_id": 1,
+      "bbox": [
+        862.0,
+        883.0,
+        233.0,
+        294.0
+      ],
+      "area": 68502.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 3759268254,
+      "category_id": 1,
+      "bbox": [
+        1456.0,
+        1216.0,
+        139.0,
+        286.0
+      ],
+      "area": 39754.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 5559132403,
+      "category_id": 1,
+      "bbox": [
+        689.0,
+        727.0,
+        229.0,
+        135.0
+      ],
+      "area": 30915.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 7313775004,
+      "category_id": 1,
+      "bbox": [
+        2033.0,
+        357.0,
+        535.0,
+        361.0
+      ],
+      "area": 193135.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 9704364713,
+      "category_id": 1,
+      "bbox": [
+        2028.0,
+        224.0,
+        229.0,
+        128.0
+      ],
+      "area": 29312.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 6659007577,
+      "category_id": 1,
+      "bbox": [
+        165.0,
+        1281.0,
+        206.0,
+        173.0
+      ],
+      "area": 35638.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 7864838063,
+      "category_id": 1,
+      "bbox": [
+        540.0,
+        1092.0,
+        216.0,
+        209.0
+      ],
+      "area": 45144.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "appleb",
+      "supercategory": "flower"
+    }
+  ],
+  "licenses": []
+}
