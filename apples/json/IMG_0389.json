@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7756464709,
+      "width": 512,
+      "height": 512,
+      "file_name": "IMG_0389.JPG",
+      "size": 10627519,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5127413709,
+      "image_id": 7756464709,
+      "category_id": 7368937709,
+      "segmentation": [],
+      "area": 72371,
+      "bbox": [
+        4082,
+        1495,
+        247,
+        293
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7368937709,
+      "name": "FlowerImages",
+      "supercategory": "Flower Image"
+    }
+  ]
+}

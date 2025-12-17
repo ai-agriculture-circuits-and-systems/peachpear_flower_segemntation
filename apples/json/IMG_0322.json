@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2293149705,
+      "width": 512,
+      "height": 512,
+      "file_name": "IMG_0322.JPG",
+      "size": 10049975,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5190875705,
+      "image_id": 2293149705,
+      "category_id": 4069068705,
+      "segmentation": [],
+      "area": 309071,
+      "bbox": [
+        1549,
+        962,
+        469,
+        659
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4069068705,
+      "name": "FlowerImages",
+      "supercategory": "Flower Image"
+    }
+  ]
+}

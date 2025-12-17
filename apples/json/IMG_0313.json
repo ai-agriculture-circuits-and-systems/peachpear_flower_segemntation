@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2053822705,
+      "width": 512,
+      "height": 512,
+      "file_name": "IMG_0313.JPG",
+      "size": 10582591,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5248281705,
+      "image_id": 2053822705,
+      "category_id": 9444469705,
+      "segmentation": [],
+      "area": 223510,
+      "bbox": [
+        4116,
+        2009,
+        515,
+        434
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9444469705,
+      "name": "FlowerImages",
+      "supercategory": "Flower Image"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6311247703,
+      "width": 512,
+      "height": 512,
+      "file_name": "IMG_0292.JPG",
+      "size": 8915456,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4824541703,
+      "image_id": 6311247703,
+      "category_id": 7834245703,
+      "segmentation": [],
+      "area": 462430,
+      "bbox": [
+        1747,
+        2517,
+        655,
+        706
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7834245703,
+      "name": "FlowerImages",
+      "supercategory": "Flower Image"
+    }
+  ]
+}
